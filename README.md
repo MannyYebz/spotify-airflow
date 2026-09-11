@@ -321,3 +321,19 @@ Protocol references: [Spotify authorization code flow](https://developer.spotify
 [top items](https://developer.spotify.com/documentation/web-api/reference/get-users-top-artists-and-tracks),
 [rate limits](https://developer.spotify.com/documentation/web-api/concepts/rate-limits),
 and [Airflow 2.11.2 Docker documentation](https://airflow.apache.org/docs/apache-airflow/2.11.2/howto/docker-compose/).
+
+## License
+
+The original code and documentation in this repository are licensed under the
+[MIT License](LICENSE), copyright © 2026 MannyYebz.
+
+Third-party dependencies retain their own licenses and required notices. The MIT
+license does not grant rights to Spotify content, API responses, artwork, music,
+trademarks, or other third-party material. Access to and use of Spotify's API and
+data remain subject to the [Spotify Developer Terms](https://developer.spotify.com/terms)
+and [Developer Policy](https://developer.spotify.com/policy). This project is not
+affiliated with or endorsed by Spotify.
+
+Licensing the code does not authorize indefinite retention or redistribution of
+Spotify data. The pipeline currently has no enforced retention policy; operators
+must address applicable storage and deletion requirements before live use.

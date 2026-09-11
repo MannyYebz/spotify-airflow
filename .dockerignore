@@ -2,6 +2,7 @@
 !requirements-airflow.txt
 !pyproject.toml
 !README.md
+!LICENSE
 !src/
 !src/**
 !dags/
