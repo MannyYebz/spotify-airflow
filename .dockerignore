@@ -1,0 +1,11 @@
+**
+!requirements-airflow.txt
+!pyproject.toml
+!README.md
+!src/
+!src/**
+!dags/
+!dags/**
+!scripts/
+!scripts/init_airflow.py
+**/__pycache__/

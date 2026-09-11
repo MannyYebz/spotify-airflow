@@ -1,0 +1,4 @@
+# Airflow uses its tested dependency set separately from the lightweight uv environment.
+--constraint https://raw.githubusercontent.com/apache/airflow/constraints-2.11.2/constraints-3.12.txt
+apache-airflow[postgres]==2.11.2
+.
